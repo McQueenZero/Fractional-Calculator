@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/Calculation.h
+
+../inc/Fraction.h
+iostream
+-
+
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/main.cpp
+iostream
+-
+iomanip
+-
+Fraction.h
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/Fraction.h
+Calculation.h
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/Calculation.h
+
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/src/Calculation.cpp
+iostream
+-
+Fraction.h
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/src/Fraction.h
+string
+-
+
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/src/Fraction.cpp
+Fraction.h
+/home/mcqueen-zero/CLionProjects/FractionalCalculator/src/Fraction.h
+cmath
+-
+

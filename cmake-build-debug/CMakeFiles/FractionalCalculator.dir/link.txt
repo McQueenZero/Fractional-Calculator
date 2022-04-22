@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/FractionalCalculator.dir/main.cpp.o CMakeFiles/FractionalCalculator.dir/src/Calculation.cpp.o CMakeFiles/FractionalCalculator.dir/src/Fraction.cpp.o -o FractionalCalculator 
