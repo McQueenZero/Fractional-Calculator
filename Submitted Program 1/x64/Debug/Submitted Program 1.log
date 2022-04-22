@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  Calculation.cpp
+  Fraction.cpp
+E:\BaiduNetdiskWorkspace\Cloud_CLionProjects\FractionalCalculator_VisualStudio\Submitted Program 1\Fraction.cpp(6,23): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\BaiduNetdiskWorkspace\Cloud_CLionProjects\FractionalCalculator_VisualStudio\Submitted Program 1\Fraction.cpp(6,49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\BaiduNetdiskWorkspace\Cloud_CLionProjects\FractionalCalculator_VisualStudio\Submitted Program 1\Fraction.cpp(13,36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Submitted Program 1.cpp
+  正在生成代码...
+  Submitted Program 1.vcxproj -> E:\BaiduNetdiskWorkspace\Cloud_CLionProjects\FractionalCalculator_VisualStudio\x64\Debug\Submitted Program 1.exe
